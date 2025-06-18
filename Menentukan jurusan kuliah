@@ -23,4 +23,4 @@ pelajaran = input("Pelajaran favorit kamu? (matematika/biologi/ekonomi/bahasa/se
 jurusan = rekomendasi_jurusan(minat, pelajaran)
 
 print("=== Hasil Rekomendasi Jurusan ===")
-print(f"Rekomendasi jurusan: {jurusan}")
+print(f"Rekomendasi jurusan: {jurusan}") 
