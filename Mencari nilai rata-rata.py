@@ -15,4 +15,5 @@ an = float(input("Analisis Numerik: "))
 nilai = dpp + si + bd + m + k + an
 rata_rata = nilai / 6
 
+print("=== Hasil Rata-Rata Nilai Mahasiswa ===")
 print("Rata-rata nilai", nama, "dengan NPM", npm, "adalah:", rata_rata)

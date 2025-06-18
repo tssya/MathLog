@@ -14,4 +14,6 @@ nilai = float(input("Masukkan nilai ujian (0-100): "))
 kehadiran = float(input("Masukkan persen kehadiran (0-100): "))
 
 hasil = cek_kelulusan(nilai, kehadiran)
+
+print("=== Hasil Kelulusan Siswa ===")
 print(f"Status: {hasil}")
