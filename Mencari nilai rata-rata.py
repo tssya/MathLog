@@ -1,3 +1,5 @@
+print("Program Mencari Nilai Rata-Rata Mahasiswa")
+
 nama = input("Masukkan nama anda: ")
 npm = input("Masukkan NPM anda: ")
 
